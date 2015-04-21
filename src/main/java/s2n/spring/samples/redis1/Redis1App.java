@@ -32,8 +32,8 @@ public class Redis1App {
 		} catch (Exception e) {
 			System.out.println("err " + e);
 		}
-		System.out.println("Hello 1 b1");
-		boolean useJavaConfig = true;
+		System.out.println("Hello 1 b3");
+		boolean useJavaConfig = false;
 		ApplicationContext ctx = null;
 
 		// Showing examples of both Xml and Java based configuration
